@@ -1,1 +1,1 @@
-# This is a test repository for DS expriments
+# This is a test repository for DS experiments
